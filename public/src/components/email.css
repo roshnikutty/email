@@ -1,0 +1,10 @@
+.email {
+    display: flex;
+}
+
+main {
+    flex-grow: 1;
+    padding: 10px;
+}
+
+
